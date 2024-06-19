@@ -15,5 +15,9 @@ You can create an *Issue* or make a *Pull request (PR)* to contribute to the pro
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
 
+<<<<<<< HEAD
 
 //test
+=======
+-Branches provides a way to work on different versions of a repository at the same time.
+>>>>>>> f3b8b916e62c0c8793ff6be50be0466fe63b035c
